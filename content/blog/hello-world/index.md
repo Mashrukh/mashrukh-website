@@ -1,7 +1,8 @@
 ---
-title: Hello World
+title: Data Storage in an Age of Growing Data
 date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./salty_egg.jpg
+description: How do we decide how to store data in our applications?
 ---
 
 This is my first post on my new fake blog! How exciting!
